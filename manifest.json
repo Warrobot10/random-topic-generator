@@ -1,11 +1,10 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "random-topic-generator",
+	"name": "Random topic generator",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "This little plugin will select a topic for you to write about, and create a new note with the topic as a tiile!",
+	"author": "Warrobot10",
+	"authorUrl": "https://github.com/Warrobot10",
 	"isDesktopOnly": false
 }
